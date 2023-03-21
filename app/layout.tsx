@@ -1,4 +1,4 @@
-import "../styling/globals.css";
+import '../styling/globals.css';
 
 export default function RootLayout({
   children,
